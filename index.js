@@ -1,2 +1,3 @@
-var a = 'king';
+const a = 'king';
+
 console.log(a);
